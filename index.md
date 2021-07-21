@@ -6,7 +6,8 @@ Design tools and Architectue
 ### Hi, Iam jeffrey. I'm a UX designer with 1 year of experiece in photography. I have been working in manufacturing and logistics companies where I specialized in operating industrial machines. My main goal is to sastisfy customers needs, so i carried on this tradition to my present line of work. Having UX design as an additional skillset, enables me to conduct research and put users' need at the forefront of design, thereby bringing satisfaction to the users in the process. Now, I'am looking forward to applying the same principles to designing prototypes and products that will be aesthetically appealing to the users. My experience as a designer has given me the deswire to create seamless design and interaction strategies for mobile, web, desktop, and other hardware end point, and i am looking for a full-time role that offers a similar opportuinity.
 
 Persona: "as a user i want to able to withdraw or send money, so that i'll not rely on using my credit card or bank account for transactions
-```markdown
+<img src="file:///C:/Users/chuka/Downloads/Wallet%20App%20Exploration.png"alt="plutopay"style="width:200px;height:200px;"><body style="background-color: skyblue;">
+
 Syntax highlighted code block
 
 # PlutoPay Project
