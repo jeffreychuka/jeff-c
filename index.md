@@ -1,9 +1,7 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jeffreychuka/jeff-c/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+UX designer with a background in photography
+Design tools and Architectue
 [Professional Resume 5.1.pdf](https://github.com/jeffreychuka/jeff-c/files/6858681/Professional.Resume.5.1.pdf)
 ### Hi, Iam jeffrey. I'm a UX designer with 1 year of experiece in photography. I have been working in manufacturing and logistics companies where I specialized in operating industrial machines. My main goal is to sastisfy customers needs, so i carried on this tradition to my present line of work.
 
@@ -24,8 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+https://www.behance.net/jeffreychuka```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
