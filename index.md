@@ -4,14 +4,14 @@ You can use the [editor on GitHub](https://github.com/jeffreychuka/jeff-c/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Hi, Iam jeffrey. I'm a UX designer with 1 year of experiece in photography. I have been working in manufacturing and logistics companies where I specialized in operating industrial machines. My main goal is to sastisfy customers needs, so i carried on this tradition to my present line of work.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# PlutoPay Project
 ## Header 2
 ### Header 3
 
