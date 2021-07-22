@@ -22,7 +22,6 @@ Competetive analysis
 1. adyen
 2. ecopayz
 
-**Users ** and Stakehoders  and `<img src="file:///C:/Users/chuka/Downloads/Wallet%20App%20Exploration.png"alt="plutopay"style="width:200px;height:200px;"><body style="background-color: skyblue;">
 ` End-users
 
 https://www.behance.net/jeffreychuka```
