@@ -9,7 +9,7 @@ Design tools and Architectue
 Persona: "as a user i want to able to withdraw or send money, so that i'll not rely on using my credit card or bank account for transactions
 
 Syntax highlighted code block
-
+<a href="/contact.html"> contact</a>
 # PlutoPay Project
 ## Tools: Figma, Balsamiq
 Design Thinking Proccess
