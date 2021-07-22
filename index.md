@@ -9,15 +9,16 @@ Persona: "as a user i want to able to withdraw or send money, so that i'll not r
 
 Syntax highlighted code block
 
-# PlutoPay Project![ADD Money h f](https://user-images.githubusercontent.com/87776403/126573896-efd0d589-423d-45e4-bbd7-964d4b50a907.png)
-
+# PlutoPay Project
 ## Tools: Figma, Balsamiq
 Design Thinking Proccess
 - User stories
 - Mental model
 - Site map
 - Content auditing
-- Design collaboration
+- Design collaboration![mockups 12](https://user-images.githubusercontent.com/87776403/126576084-7cf90ff9-e562-46e9-9645-07e876f31fa8.png)
+![mock 13](https://user-images.githubusercontent.com/87776403/126576094-a2cf8297-863f-4bd6-abc3-506bb5535d7c.png)
+
 Competetive analysis
 1. adyen
 2. ecopayz
