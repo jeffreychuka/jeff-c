@@ -1,4 +1,3 @@
-![20210629_123027](https://user-images.githubusercontent.com/87776403/126578601-8b4fd4a3-1eb4-4ac6-9adc-2b7dd4f72973.jpg)
 ## Welcome 
 
 UX designer with a background in photography
