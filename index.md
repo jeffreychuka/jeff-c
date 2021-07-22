@@ -12,18 +12,17 @@ Syntax highlighted code block
 # PlutoPay Project![ADD Money h f](https://user-images.githubusercontent.com/87776403/126573896-efd0d589-423d-45e4-bbd7-964d4b50a907.png)
 
 ## Tools: Figma, Balsamiq
-### Objective
-
-- user stories
+Design Thinking Proccess
+- User stories
 - Mental model
 - Site map
 - Content auditing
-- List
+- Design collaboration
+Competetive analysis
+1. adyen
+2. ecopayz
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**Users ** and Stakehoders  and `Code` End-users
 
 https://www.behance.net/jeffreychuka```
 
